@@ -3,8 +3,10 @@
 /*
 	Method: ${1:methodName}
 	...${2:description}
+
 	Parameters:
 		${3:param1} - ${description}
+
 	Returns:
 		${4:returnValue}
 */
