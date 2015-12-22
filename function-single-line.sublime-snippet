@@ -2,5 +2,5 @@
     <content><![CDATA[${1} => ${2}]]></content>
     <tabTrigger>fs</tabTrigger>
     <scope>source.js</scope>
-    <description>Anonymous Function</description>
+    <description>Single Line Anonymous Function</description>
 </snippet>
