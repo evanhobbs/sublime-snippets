@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[var ${1} = ${2}]]></content>
+    <tabTrigger>v</tabTrigger>
+    <scope>source.js</scope>
+    <description>Basic var</description>
+</snippet>
