@@ -3,13 +3,10 @@
 const ${1} = React.createClass({
 	render () {
 		return (
-			<div>
-        ${0}
-      </div>
+			<div>${0}</div>
 		)
 	}
 })
-
 ]]></content>
     <tabTrigger>rcc</tabTrigger>
     <scope>source.js -(meta)</scope>
